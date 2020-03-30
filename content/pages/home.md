@@ -1,9 +1,10 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Interaudio Pelanas
+featuredImage: >-
+  https://ucarecdn.com/60edba1f-3eaf-4907-8c25-57bb8712418c/-/preview/-/rotate/180/-/enhance/87/
+subtitle: ' Welcome to Casper System'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
